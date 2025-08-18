@@ -11,6 +11,7 @@ Peeled off the monitor, stuck in a core dump.
 I throw a null ref — you’ll catch it yourself.
 Hey, code, are you production or a dead load?
 
-
 # My bio
-## 
+
+
+# Social 
