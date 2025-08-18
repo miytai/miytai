@@ -1,6 +1,6 @@
 ![Header](https://github.com/miytai/miytai/blob/main/Assets/123123.jpg)
 
-
+# Ego style
 >The rarest bug, but the cruelest crasher.
 Bet it'll slip into your stack with no questions?
 Bet you won't escape this debugger's prison?
