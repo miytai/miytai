@@ -23,7 +23,8 @@ Hey, code, are you production or a dead load?
 # My bio
 
 ## Languages and Tools:
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6) ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=fastapi&logoColor=009688) ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+
 
 # Social 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/miytai)
