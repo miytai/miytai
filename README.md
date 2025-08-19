@@ -21,19 +21,16 @@
 >Hey, code, are you production or a dead load?
 
 # About me
-## BIO
-
 ## Statistics works
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miytai&theme=buefy&show_icons=true)
 ### Best projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&repo=mr.girl-_rutbe_ai_translater)](https://github.com/miytai/mr.girl-_rutbe_ai_translater) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&repo=tob33)](https://github.com/miytai/mr.girl-_rutbe_ai_translater) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&repo=GUI_BD_TUR
-)](https://github.com/miytai/mr.girl-_rutbe_ai_translater) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&repo=GUI_BD_TUR
-)](https://github.com/miytai/mr.girl-_rutbe_ai_translater)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=mr.girl-_rutbe_ai_translater)](https://github.com/miytai/mr.girl-_rutbe_ai_translater) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=tob33)](https://github.com/miytai/tob33) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=GUI_BD_TUR)](https://github.com/miytai/GUI_BD_TUR) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=PP-Tur-web-gui
+)](https://github.com/miytai/PP-Tur-web-gui)
 ## Languages and Tools:
 ### Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miytai)
-### All
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miytai&theme=buefy)
+### All tools
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=white) ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=fastapi&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=white)
 # Social 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/miytai)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/miytai) [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@myiyta) [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/siraraextazzi)
