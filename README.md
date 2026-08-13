@@ -1,7 +1,7 @@
 ![Header](https://github.com/miytai/miytai/blob/main/Assets/12312s3.jpg)
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-  <h1>👋 Привет, я — miytai</h1>
+  <h1>👋 Привет, я — Tisha Tone Krauzer</h1>
 </div>
 
 <p align="center">
