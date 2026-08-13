@@ -133,5 +133,5 @@
   <i>Открыт к коллаборациям и новым идеям ✨</i>
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:f8bbd0,100:f48fb1&height=80&section=footer&text=TTK&fontSize=28&fontColor=880e4f&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:f8bbd0,100:f48fb1&height=80&section=footer&fontSize=28&fontColor=880e4f&animation=twinkling" width="100%" />
 </div>
