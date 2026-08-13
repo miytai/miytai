@@ -125,8 +125,14 @@
 
 ---
 
+<br>
+
 <div align="center">
   <b>⭐️ Спасибо, что заглянули!</b>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <i>Открыт к коллаборациям и новым идеям ✨</i>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
