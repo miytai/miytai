@@ -1,4 +1,4 @@
-![Header](https://github.com/miytai/miytai/blob/main/Assets/123123.jpg)
+![Header](Assets/123123.jpg)
 
 # My style
 
