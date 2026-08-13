@@ -89,8 +89,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=miytai&color=blueviolet&style=flat-square&label=👁️+Визитов" />
-  &nbsp;&nbsp;·&nbsp;&nbsp;
   <b>⭐️ Спасибо, что заглянули!</b>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <i>Открыт к коллаборациям и новым идеям ✨</i>
