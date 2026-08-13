@@ -134,4 +134,16 @@
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/miytai/miytai/output/snake.svg" alt="Snake animation" width="100%" />
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0a2a,70:2a0a3a,100:0a0a0a&height=4&section=footer" width="100%" />
+  
+  <br>
+  
+  <code>✦ In tenebris, lux quaeritur ✦</code>
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:2a0a3a&height=100&section=footer&text=🕯️&fontSize=36&animation=twinkling" width="100%" />
+</div>
