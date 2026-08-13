@@ -1,5 +1,3 @@
-![Header](Assets/123123.jpg)
-
 # My style
 
 >The rarest bug, but the cruelest crasher.
