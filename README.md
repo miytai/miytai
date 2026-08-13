@@ -72,39 +72,6 @@
 
 ---
 
-## 🌟 Избранные проекты
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/miytai/mr.girl-_rutbe_ai_translater">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=radical&repo=mr.girl-_rutbe_ai_translater&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/miytai/tob33">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=radical&repo=tob33&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/miytai/GUI_BD_TUR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=radical&repo=GUI_BD_TUR&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/miytai/PP-Tur-web-gui">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=radical&repo=PP-Tur-web-gui&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
 ## 🌍 Где меня найти
 
 <div align="center">
