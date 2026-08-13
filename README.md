@@ -1,61 +1,130 @@
 ![Header](https://github.com/miytai/miytai/blob/main/Assets/12312s3.jpg)
-# 👋 Привет! Я — miytai
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  <h1>👋 Привет, я — miytai</h1>
+</div>
 
-<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+<p align="center">
+  <b>🚀 Backend-разработчик</b> • <b>⚙️ Автоматизатор</b> • <b>🧠 Исследователь данных</b>
+</p>
 
-🎯 **Backend-разработчик** | ⚙️ **Автоматизатор** | 🧠 **Исследователь данных**
+<p align="center">
+  <i>Создаю полезные инструменты, экспериментирую с AI и пишу чистый код.</i>
+  <br>
+  Добро пожаловать в мой цифровой сад 🌱
+</p>
 
-Мне нравится создавать полезные инструменты, экспериментировать с AI и писать чистый код.  
-Вот что я делаю и чем горжусь 👇
-
----
-
-## 📊 Статистика GitHub
-
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miytai&theme=buefy&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miytai&theme=buefy&hide_border=true&layout=compact) |
-| :---: | :---: |
-
----
-
-## 🚀 Лучшие проекты
-
-| Название | Описание |
-| :---: | :--- |
-| [![mr.girl-_rutbe_ai_translater](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=mr.girl-_rutbe_ai_translater)](https://github.com/miytai/mr.girl-_rutbe_ai_translater) | 🤖 AI-переводчик с нестандартным подходом |
-| [![tob33](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=tob33)](https://github.com/miytai/tob33) | 🧩 Многофункциональный инструмент для работы с данными |
-| [![GUI_BD_TUR](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=GUI_BD_TUR)](https://github.com/miytai/GUI_BD_TUR) | 🖥️ Графический интерфейс для баз данных |
-| [![PP-Tur-web-gui](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=PP-Tur-web-gui)](https://github.com/miytai/PP-Tur-web-gui) | 🌐 Веб-интерфейс для туристического сервиса |
+<br>
 
 ---
 
-## 🛠️ Технологии и инструменты
+## 🛠️ Технологический стек
 
-### Основные языки
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><b>Python</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><b>C++</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br><b>SQL</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br><b>FastAPI</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br><b>SQLite</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><b>Linux</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br><b>HTML5</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br><b>Unity</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><b>API</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><b>Git</b>
+    </td>
+  </tr>
+</table>
 
-### Фреймворки и базы данных
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Окружение и DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### И другое
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br>
 
 ---
 
-## 🌐 Где меня найти
+## 📊 GitHub Статистика
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/miytai)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@myiyta)
-[![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/siraraextazzi)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miytai&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miytai&theme=radical&hide_border=true&layout=compact" width="48%" />
+</div>
+
+<br>
 
 ---
 
-⭐️ **Спасибо, что заглянули!**  
-Всегда открыт к идеям, коллаборациям и интересным задачам.
+## 🌟 Избранные проекты
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/miytai/mr.girl-_rutbe_ai_translater">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=radical&repo=mr.girl-_rutbe_ai_translater&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/miytai/tob33">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=radical&repo=tob33&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/miytai/GUI_BD_TUR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=radical&repo=GUI_BD_TUR&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/miytai/PP-Tur-web-gui">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=radical&repo=PP-Tur-web-gui&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+## 🌍 Где меня найти
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30)](https://t.me/miytai)
+&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=30)](https://www.youtube.com/@myiyta)
+&nbsp;&nbsp;
+[![VKontakte](https://img.shields.io/badge/-VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white&logoWidth=30)](https://vk.com/siraraextazzi)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=miytai&color=blueviolet&style=flat-square&label=👁️+Визитов" />
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <b>⭐️ Спасибо, что заглянули!</b>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <i>Открыт к коллаборациям и новым идеям ✨</i>
+</div>
