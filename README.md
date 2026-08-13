@@ -132,14 +132,4 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <i>Открыт к коллаборациям и новым идеям ✨</i>
 </div>
-
-<br>
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0a2a,70:2a0a3a,100:0a0a0a&height=4&section=footer" width="100%" />
-  
-  <br>
-<a href="https://github.com/miytai">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=150&section=footer&text=🦇%20Exit%20the%20light&fontSize=24&fontColor=6a0dad&animation=twinkling" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:4a0000&height=120&section=footer&animation=twinkling" width="100%" />
