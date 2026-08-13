@@ -66,9 +66,6 @@
 <div align="center">
   <!-- Streak stats (очень стабильный) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miytai&theme=radical&hide_border=true" width="48%" />
-  
-  <!-- WakaTime (если подключили) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=miytai&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br>
