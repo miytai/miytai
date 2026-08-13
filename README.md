@@ -20,6 +20,8 @@
 
 ## 🛠️ Технологический стек
 
+## 🛠️ Технологический стек
+
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -29,19 +31,33 @@
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><b>C++</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br><b>SQL</b>
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br><b>PHP</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /><br><b>C#</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br><b>MySQL</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br><b>SQLite</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br><b>Django</b>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br><b>FastAPI</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br><b>SQLite</b>
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><b>Linux</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><b>Linux</b>
-    </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br><b>HTML5</b>
     </td>
@@ -49,10 +65,13 @@
       <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br><b>Unity</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><b>API</b>
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><b>Postman</b>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48" alt="MSSQL" /><br><b>MS SQL</b>
     </td>
   </tr>
 </table>
