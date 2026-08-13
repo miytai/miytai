@@ -34,13 +34,27 @@
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /><br><b>C#</b>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br><b>MySQL</b>
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br><b>JavaScript</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br><b>CSS3</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><b>React</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br><b>Vue.js</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><b>MySQL</b>
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><b>PostgreSQL</b>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br><b>SQLite</b>
     </td>
@@ -53,11 +67,11 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><b>Linux</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br><b>HTML5</b>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br><b>Unity</b>
     </td>
@@ -66,6 +80,9 @@
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=yaml" width="48" height="48" alt="YAML" /><br><b>YAML</b>
     </td>
     <td align="center" width="100">
       <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48" alt="MSSQL" /><br><b>MS SQL</b>
