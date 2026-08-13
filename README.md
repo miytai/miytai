@@ -75,6 +75,15 @@
 
 ---
 
+## 📊 Статистика GitHub
+
+| Достижения | Языки |
+| :---: | :---: |
+| ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=miytai&theme=radical&no-frame=true) | ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miytai&theme=radical&hide_border=true&layout=compact&cache_seconds=1800) |
+
+<br>
+
+---
 ## 🌍 Где меня найти
 
 <div align="center">
