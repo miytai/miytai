@@ -132,4 +132,34 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <i>Открыт к коллаборациям и новым идеям ✨</i>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:4a0000&height=120&section=footer&animation=twinkling" width="100%" />
+<br>
+
+<div align="center">
+  <!-- Верхняя волна-разделитель -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:ffb7c5,100:f48fb1&height=4&section=footer" width="100%" />
+  
+  <br><br>
+  
+  <!-- Сакура ASCII -->
+  <pre>
+        🌸🌸🌸
+      🌸🌸🌸🌸🌸
+    🌸🌸🌸🌸🌸🌸🌸
+  🌸🌸🌸🌸🌸🌸🌸🌸🌸
+    🌸🌸🌸🌸🌸🌸🌸
+      🌸🌸🌸🌸🌸
+        🌸🌸🌸
+          🌸
+  </pre>
+  
+  <b>🌸 Спасибо, что заглянули! 🌸</b>
+  <br>
+  <i>~ 春の訪れのように ~</i>
+  <br>
+  <i>(Как приход весны)</i>
+  
+  <br><br>
+  
+  <!-- Финальная волна -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:f8bbd0,100:f48fb1&height=80&section=footer&text=🌸&fontSize=28&fontColor=880e4f&animation=twinkling" width="100%" />
+</div>
