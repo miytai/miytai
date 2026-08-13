@@ -140,10 +140,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0a2a,70:2a0a3a,100:0a0a0a&height=4&section=footer" width="100%" />
   
   <br>
-  
-  <code>✦ In tenebris, lux quaeritur ✦</code>
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:2a0a3a&height=100&section=footer&text=🕯️&fontSize=36&animation=twinkling" width="100%" />
-</div>
+<a href="https://github.com/miytai">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=150&section=footer&text=🦇%20Exit%20the%20light&fontSize=24&fontColor=6a0dad&animation=twinkling" width="100%" />
+</a>
