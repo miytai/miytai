@@ -74,19 +74,18 @@
 
 ## 📊 GitHub Статистика
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║     ███╗   ███╗██╗██╗   ██╗████████╗ █████╗ ██╗                         ║
-║     ████╗ ████║██║╚██╗ ██╔╝╚══██╔══╝██╔══██╗██║                         ║
-║     ██╔████╔██║██║ ╚████╔╝    ██║   ███████║██║                         ║
-║     ██║╚██╔╝██║██║  ╚██╔╝     ██║   ██╔══██║██║                         ║
-║     ██║ ╚═╝ ██║██║   ██║      ██║   ██║  ██║███████╗                    ║
-║     ╚═╝     ╚═╝╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝                    ║
-║                                                                           ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miytai&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=ff6b6b&line=ff6b6b&point=ffd93d&custom_title=Моя%20активность%20за%20последние%2030%20дней" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miytai&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ffd93d" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miytai&theme=radical&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&text_color=ffd93d" width="48%" />
+</div>
+
+---
 ## 🌍 Где меня найти
 
 <div align="center">
