@@ -135,4 +135,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=✨%20See%20you%20soon!&fontSize=24&fontAlign=50&fontAlignY=70&animation=fadeIn" width="100%" />
