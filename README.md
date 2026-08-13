@@ -134,5 +134,4 @@
 </div>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=✨%20See%20you%20soon!&fontSize=24&fontAlign=50&fontAlignY=70&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/miytai/miytai/output/snake.svg" alt="Snake animation" width="100%" />
