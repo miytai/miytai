@@ -1,35 +1,61 @@
 ![Header](https://github.com/miytai/miytai/blob/main/Assets/12312s3.jpg)
-# My style
+# 👋 Привет! Я — miytai
 
->The rarest bug, but the cruelest crasher.
->
->Bet it'll slip into your stack with no questions?
->
->Bet you won't escape this debugger's prison?
->
->I play with her memory, baby, where’s your pointer?
->
->Blasting DOOM OST, she compiles my shader.
->
->Leaving the engine, black coffee and pain in hand.
->
->Peeled off the monitor, stuck in a core dump.
->
->I throw a null ref — you’ll catch it yourself.
->
->Hey, code, are you production or a dead load?
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
 
-# About me
-## Statistics works
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miytai&theme=buefy&show_icons=true)
-### Best projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=mr.girl-_rutbe_ai_translater)](https://github.com/miytai/mr.girl-_rutbe_ai_translater) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=tob33)](https://github.com/miytai/tob33) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=GUI_BD_TUR)](https://github.com/miytai/GUI_BD_TUR) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=PP-Tur-web-gui
-)](https://github.com/miytai/PP-Tur-web-gui)
-## Languages and Tools:
-### Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miytai&theme=buefy)
-### All tools
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=white) ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=fastapi&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=white)
-# Social 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/miytai) [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@myiyta) [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/siraraextazzi)
+🎯 **Backend-разработчик** | ⚙️ **Автоматизатор** | 🧠 **Исследователь данных**
+
+Мне нравится создавать полезные инструменты, экспериментировать с AI и писать чистый код.  
+Вот что я делаю и чем горжусь 👇
+
+---
+
+## 📊 Статистика GitHub
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miytai&theme=buefy&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miytai&theme=buefy&hide_border=true&layout=compact) |
+| :---: | :---: |
+
+---
+
+## 🚀 Лучшие проекты
+
+| Название | Описание |
+| :---: | :--- |
+| [![mr.girl-_rutbe_ai_translater](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=mr.girl-_rutbe_ai_translater)](https://github.com/miytai/mr.girl-_rutbe_ai_translater) | 🤖 AI-переводчик с нестандартным подходом |
+| [![tob33](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=tob33)](https://github.com/miytai/tob33) | 🧩 Многофункциональный инструмент для работы с данными |
+| [![GUI_BD_TUR](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=GUI_BD_TUR)](https://github.com/miytai/GUI_BD_TUR) | 🖥️ Графический интерфейс для баз данных |
+| [![PP-Tur-web-gui](https://github-readme-stats.vercel.app/api/pin/?username=miytai&theme=buefy&repo=PP-Tur-web-gui)](https://github.com/miytai/PP-Tur-web-gui) | 🌐 Веб-интерфейс для туристического сервиса |
+
+---
+
+## 🛠️ Технологии и инструменты
+
+### Основные языки
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Фреймворки и базы данных
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Окружение и DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### И другое
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🌐 Где меня найти
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/miytai)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@myiyta)
+[![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/siraraextazzi)
+
+---
+
+⭐️ **Спасибо, что заглянули!**  
+Всегда открыт к идеям, коллаборациям и интересным задачам.
